@@ -1,0 +1,1 @@
+C:\Users\Me\Desktop\aila_xu\target\query\IndriRunQuery.exe  C:\Users\Me\Desktop\aila_xu\target\query\para\query.para  -count=2900  -trecFormat=true -runID=LM  -baseline=okapi,k1:1.2,b:0.75,k3:7  -printDocuments=false -printQuery=false  >okapi.score

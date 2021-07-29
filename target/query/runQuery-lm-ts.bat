@@ -1,0 +1,1 @@
+C:\Users\Me\Desktop\aila_xu\target\query\IndriRunQuery.exe  C:\Users\Me\Desktop\aila_xu\target\query\para\query.para  -count=1500  -trecFormat=true -runID=LM  -rule=method:twostage,mu:2500,lambda:0.8  -printDocuments=false -printQuery=false  > lm_TS_2500_0.8.score
